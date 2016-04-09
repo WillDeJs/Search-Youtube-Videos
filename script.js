@@ -7,7 +7,7 @@ $(document).ready(function(){
          $.get(
            "https://www.googleapis.com/youtube/v3/search",
             {
-            key:'AIzaSyCR5In4DZaTP6IEZQ0r1JceuvluJRzQNLE',
+            key:'AIzaSyBxy-pfN3OqYCLl7N4hpN36oTx0xu-CTGw',
             maxResults:10,
             part:'snippet',
             type:'video',
